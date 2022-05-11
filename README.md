@@ -7,5 +7,9 @@ This dashboard is a personal project to learn Dune Analytics by focusing on a to
 
 ✏️ **How to use the dashbaord**
 
-Simply enter a `From` and `To` date at the top of the dashbard and click the `Apply all parameters` at the top.
+Simply enter a `From` and `To` date at the top of the dashbard and click the `Apply all parameters` at the top:
+![parameters](./Images/Parameters.png)
+
+The dashbaord will update all the charts using the date range you selected.
+![dashboard](./Images/Dashboard.png)
 
